@@ -1,0 +1,2 @@
+# entitycore
+CMS .NET Core
