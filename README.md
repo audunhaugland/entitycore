@@ -21,6 +21,8 @@ Other goals are the usual suspects:
 - Custom forms
 - Field templates
 - Rights management
+- Standard APIs
+- Custom APIs (.NET Minimal APIs)
 - Custom design
 - Dynamic content
 - Import/export content
