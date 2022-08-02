@@ -6,7 +6,7 @@ EntityCore is a commercial CMS that is currently being developed on .NET Core 6.
 
 ### Goals
 
-The main goal is to be an effective platform for developing new sites, APIs, shops, and more. Most extensions are developed in a way that they can be reused, and extended on later.
+The main goal is to be an effective platform for developing new sites, APIs, shops, and more. Most extensions are developed in a way that they can be reused and extended later on.
 
 Other goals are the usual suspects: 
 1. Happy customers
