@@ -14,6 +14,21 @@ Other goals are the usual suspects:
 3. Developer friendly
 4. Rapid deployment
 
+### Functionality
+
+- Publishing functionality
+- eCommerce
+- Custom forms
+- Field templates
+- Rights management
+- Custom design
+- Dynamic content
+- Import/export content
+- Webhook notifications
+- Email notifications
+- GUIDs as IDs
+- Extendable GUI
+
 ### Support or Contact
 
 [Visit our site](https://entitycore.io) to find updated contact information
